@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+Power,NEC1,2,160,128
+Input,NEC1,2,160,8
+Mute,NEC1,2,160,234
+Level,NEC1,2,160,10
+Plus,NEC1,2,160,170
+Effect,NEC1,2,160,14
+Minus,NEC1,2,160,106
+Input1,NEC1,2,160,4
+Input2,NEC1,2,160,130
+Input3,NEC1,2,160,12
+Input4,NEC1,2,160,140
+Input5,NEC1,2,160,2
+AUX,NEC1,2,160,66
+TEST,NEC1,2,160,1
